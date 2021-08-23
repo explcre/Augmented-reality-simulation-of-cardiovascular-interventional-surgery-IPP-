@@ -1,0 +1,56 @@
+﻿  textfile.cpp
+f:\project\ar\testvision\textfile.cpp(26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+f:\project\ar\include\opencv2\core\mat.hpp(1959): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\ar\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\ar\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\ar\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\ar\include\opencv2\imgproc.hpp(617): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\project\ar\testvision\main.cpp(622): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(845): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1132): warning C4244: “参数”: 从“GLdouble”转换到“GLint”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1184): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1193): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1274): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1275): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1276): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1627): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1728): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1749): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1750): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1772): warning C4244: “初始化”: 从“GLfloat”转换到“GLint”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1773): warning C4244: “初始化”: 从“GLfloat”转换到“GLint”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1777): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1778): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1847): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1882): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1883): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(1896): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2217): warning C4305: “=”: 从“double”到“float”截断
+f:\project\ar\testvision\main.cpp(2217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2218): warning C4305: “=”: 从“double”到“float”截断
+f:\project\ar\testvision\main.cpp(2218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2256): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2289): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2292): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2295): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2300): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2303): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2306): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2324): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2324): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2343): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2344): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2357): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\project\ar\testvision\main.cpp(2360): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2362): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2381): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2426): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2427): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2490): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2491): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\project\ar\testvision\main.cpp(2504): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  TestVision.vcxproj -> F:\Project\ar\x64\Debug\TestVision.exe
+  TestVision.vcxproj -> F:\Project\ar\x64\Debug\TestVision.pdb (Full PDB)
+  复制了 0 个文件

@@ -1,0 +1,4 @@
+jeep1.ms3d 0
+spider.obj 1
+dwarf.x 2
+bench.obj 3
