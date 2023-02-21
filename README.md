@@ -12,3 +12,5 @@ Augmented reality simulation of cardiovascular interventional surgery Mar 2020- 
 
 It's recommend to use visual studio environment, and the main function is in `./TestVision/main.cpp`. 
 Also makefile is provided in the`./TestVision` directory. 
+
+Some of the 3d vessel model file is in the `./model` directory.
