@@ -11,4 +11,4 @@ Augmented reality simulation of cardiovascular interventional surgery Mar 2020- 
 ## How to run the code
 
 It's recommend to use visual studio environment, and the main function is in `./TestVision/main.cpp`. 
-Also makefile is provided in this directory. 
+Also makefile is provided in the`./TestVision` directory. 
