@@ -14,3 +14,8 @@ It's recommend to use visual studio environment, and the main function is in `./
 Also makefile is provided in the`./TestVision` directory. 
 
 Some of the 3d vessel model file is in the `./model` directory.
+
+
+## Source
+It's part of the work in this project. 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479727
