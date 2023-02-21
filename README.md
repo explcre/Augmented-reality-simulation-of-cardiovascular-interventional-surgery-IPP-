@@ -16,6 +16,6 @@ Also makefile is provided in the`./TestVision` directory.
 Some of the 3d vessel model file is in the `./model` directory.
 
 
-## Source
+## Related Paper
 It's part of the work in this project. [Vascular Intervention Training System Based on Electromagnetic Tracking Technology, 2020 International Conference on Virtual Reality and Visualization (ICVRV)](
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479727)
